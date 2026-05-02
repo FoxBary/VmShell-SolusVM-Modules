@@ -11,6 +11,8 @@
 
 本插件特別針對 NAT 環境及 KVM/OpenVZ 架構進行了適配，是構建現代化雲計算服務平台的理想選擇。
 
+<img width="1506" height="1309" alt="image" src="https://github.com/user-attachments/assets/d1125a67-7599-4588-8eaa-83909f309202" />
+
 ---
 
 ## 核心功能
